@@ -2,3 +2,11 @@ name = "nTomoCuda"
 uuid = "6c948714-fcb9-4b63-a594-62a2b827ebba"
 authors = ["jiyong <julia.kaer@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+nTomo = "69649c1d-aa60-4d7f-ab4b-d49044b65f81"
+
+[compat]
+CUDA = "5.5.2"
+nTomo = "0.3.5"
