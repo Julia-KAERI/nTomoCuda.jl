@@ -1,0 +1,4 @@
+name = "nTomoCuda"
+uuid = "6c948714-fcb9-4b63-a594-62a2b827ebba"
+authors = ["jiyong <julia.kaer@gmail.com>"]
+version = "0.1.0"
